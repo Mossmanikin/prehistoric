@@ -1,0 +1,2 @@
+PLANKS_NOW_LOGS = true
+AUTO_ROOF_CORNER = true
